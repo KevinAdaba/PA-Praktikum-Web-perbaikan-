@@ -1,0 +1,37 @@
+@media(min-width:360px) and (max-width: 699px){
+body{
+    right:50%;
+}
+    .circle{
+       display:none;
+    }
+    .logo{
+   display: none;
+    }
+    .content .textBox{
+        max-width: 100%;
+    }
+    .content .textBox h2{
+        font-size: 2em;
+        line-height: 1.2em;
+    }
+    .content .textBox h2 span{
+        color: white;
+        font-size: 1em;
+   }
+   header{
+    padding-left: 65%;
+   
+}
+label{
+    top: 60px;
+    left: 145%;
+}
+.sci{
+    top: 60%;
+    right: -230px;
+}
+.content .imgBox img{
+    max-width: 300px;
+} 
+}
